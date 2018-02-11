@@ -184,7 +184,7 @@ ul.agile_forms {
       font-size: .3em;
     color: #fff;
     letter-spacing: 4px;
-    background: #00a98f;
+    background: #278be7;
     padding: 4px 10px;
     vertical-align: top;
     font-weight: 100;
@@ -254,7 +254,7 @@ ul.agile_forms li{
 		width: 91%;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-		background: #00a98f;
+		background: #278be7;
 	}
 	.navbar-default .navbar-toggle .icon-bar {
 		background-color: #fff;
@@ -281,7 +281,7 @@ ul.agile_forms li{
 		margin: 6px 0;
 	}
 	.navbar-nav .open .dropdown-menu {
-		background-color: #00a98f;
+		background-color: #278be7;
 		padding:10px 0;
 	}
 	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -348,7 +348,7 @@ h1 {
     padding: 2em 2.5em;
 }
 .banner {
-    background: #00a98f;
+    background: #278be7;
     min-height: 770px;
     position: relative;
 }
@@ -480,7 +480,7 @@ ul.address {
 }
 .address li i {
     margin-right:0.2em;
-    color: #00a98f;
+    color: #278be7;
     width: 32px;
     height: 32px;
     text-align: center;
@@ -494,7 +494,7 @@ h3.tittle_w3layouts {
     font-weight: 700;
 }
 p.sub_para {
-    color: #00a98f;
+    color: #278be7;
 }
 /*-- banner_bottom --*/
 
@@ -608,7 +608,7 @@ p.sub_para {
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #00a98f;
+    color: #278be7;
     margin-bottom: .5em;
     display: inline-block;
     padding: 0 1.2em;
@@ -774,7 +774,7 @@ p.sub_cap {
     font-size: 2em;
     font-weight: 500;
     letter-spacing: 2px;
-    color: #00a98f;
+    color: #278be7;
 }
 
 .stats_left h3 {
@@ -789,7 +789,7 @@ p.sub_cap {
 
 .stats_left i {
     font-size: 2.5em;
-    color: #00a98f;
+    color: #278be7;
     line-height: 79px;
     width: 60px;
     height: 60px;
